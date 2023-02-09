@@ -1,4 +1,4 @@
-package com.ynov.qcm_pass
+package com.ynov.qcm_pass.activity
 
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar
@@ -9,6 +9,7 @@ import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import android.view.Menu
 import android.view.MenuItem
+import com.ynov.qcm_pass.R
 import com.ynov.qcm_pass.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

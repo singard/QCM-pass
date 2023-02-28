@@ -12,6 +12,9 @@
         android:theme="@style/Theme.QCMpass"
         tools:targetApi="31">
         <activity
+            android:name=".view.HomeActivity"
+            android:exported="false" />
+        <activity
             android:name=".view.MainActivity"
             android:exported="true"
             android:label="@string/app_name"

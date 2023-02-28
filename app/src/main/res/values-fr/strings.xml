@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QCM-pass</string>
+    <string name="main_title">bienvenue, c\'est partie pour vous entrainer !</string>
+    <string name="main_button">c\'est partie</string>
+</resources>

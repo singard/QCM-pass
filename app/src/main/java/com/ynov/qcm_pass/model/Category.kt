@@ -5,8 +5,6 @@ enum class Category {
     CAT2,
     CAT3;
 
-
-
     companion object {
         fun list(): List<Category> {
             val itemList = mutableListOf<Category>()

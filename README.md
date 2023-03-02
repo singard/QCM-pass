@@ -1,31 +1,3 @@
-# TP YNOV DEVELOPPEMENT MOBILE
-# 2QI
-
-## Description
-Il s'agit TP pour l'école Ynov Campus Aix. Il permet aux utilisateurs de s'inscrire, de répondre à un quizz et de consulter leur score.
-
-# Bonnes partiques
-
- - Customisation des couleurs de l'application.
- - Changement de l'icone.
- - Gestion des langages.
- - Gestion des variables des versions dans le fichier gradle.
- - Cohérence des noms.
- - Utilisation de champ de texte, checkbox, datepicker, slider, spinner, formulaire de mots de passes.
- - Menu de navigation.
- - Utilisation de branches et création de README complet dans GitHub.
- - Logique et consistence des noms utilisé.
- - Utilisation de package.
- - Bon format du code (indentation, imports optimisés) dans les fichiers.
- - Utilisations des concept de kotlin et gestion des activités.
-
-### Prérequis
-Un appareil Android avec au moins la version 5.0 (Lollipop)
-
-ou
-
-Un émulateur type Android Studio.
-
 ### QCM-pass
 
 ### Installation

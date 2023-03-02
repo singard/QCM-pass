@@ -5,6 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <FrameLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        tools:ignore="MissingConstraints" />
+
     <com.google.android.material.tabs.TabLayout
         android:id="@+id/tab_layout_main"
         android:layout_width="match_parent"

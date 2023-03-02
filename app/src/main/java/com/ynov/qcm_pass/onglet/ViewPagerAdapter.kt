@@ -3,8 +3,8 @@ package com.ynov.qcm_pass.onglet
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentPagerAdapter
-import com.ynov.qcm_pass.view.CategorieFragment
-import com.ynov.qcm_pass.view.StatFragment
+import com.ynov.qcm_pass.view.fragment.CategorieFragment
+import com.ynov.qcm_pass.view.fragment.StatFragment
 
 class ViewPagerAdapter(supportFragmentManager: FragmentManager) :
     FragmentPagerAdapter(supportFragmentManager) {

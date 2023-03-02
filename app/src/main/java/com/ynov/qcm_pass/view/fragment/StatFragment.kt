@@ -1,4 +1,4 @@
-package com.ynov.qcm_pass.view
+package com.ynov.qcm_pass.view.fragment
 
 import android.os.Bundle
 import android.view.LayoutInflater

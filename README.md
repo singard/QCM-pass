@@ -1,4 +1,4 @@
-### QCM-pass
+# QCM-pass
 
 ### Installation
 Installez et vérifiez que vous possédez la bonne version de gradle.

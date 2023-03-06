@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/question_statement"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+    <CheckBox
+        android:id="@+id/answer_a_checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="a) "/>
+
+    <CheckBox
+        android:id="@+id/answer_b_checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="b) "/>
+
+    <CheckBox
+        android:id="@+id/answer_c_checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="c) "/>
+
+    <CheckBox
+        android:id="@+id/answer_d_checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="d) "/>
+
+    <CheckBox
+        android:id="@+id/answer_e_checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="e) "/>
+
+    <CheckBox
+        android:id="@+id/answer_f_checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="f) "/>
+
+    <Button
+        android:id="@+id/validate_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Valider"/>
+
+</LinearLayout>

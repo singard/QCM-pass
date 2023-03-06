@@ -17,7 +17,6 @@ class CategorieFragment: Fragment() {
         super.onCreate(savedInstanceState)
         setHasOptionsMenu(true)
 
-
     }
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?

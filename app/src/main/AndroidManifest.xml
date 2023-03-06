@@ -15,6 +15,9 @@
             android:name=".view.home.HomeActivity"
             android:exported="false" />
         <activity
+            android:name=".view.questionView.QuestionActivity"
+            android:exported="false" />
+        <activity
             android:name=".view.parameter.ParametersActivity"
             android:exported="false" />
         <activity

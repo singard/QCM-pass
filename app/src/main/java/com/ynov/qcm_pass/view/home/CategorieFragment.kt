@@ -1,4 +1,4 @@
-package com.ynov.qcm_pass.view.fragment
+package com.ynov.qcm_pass.view.home
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,7 +8,7 @@ import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.ynov.qcm_pass.R
-import com.ynov.qcm_pass.card.CategoryAdapter
+import com.ynov.qcm_pass.util.cardViewCategory.CategoryAdapter
 import com.ynov.qcm_pass.model.Category
 
 class CategorieFragment: Fragment() {

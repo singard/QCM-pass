@@ -1,10 +1,11 @@
-package com.ynov.qcm_pass.view.activity
+package com.ynov.qcm_pass.view
 
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import android.widget.Button
 import com.ynov.qcm_pass.R
+import com.ynov.qcm_pass.view.home.HomeActivity
 
 class MainActivity : AppCompatActivity() {
 

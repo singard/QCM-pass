@@ -1,19 +1,53 @@
 [
-  {"statement": "Concernant les in\u00c3\u00a9galit\u00c3\u00a9s de sant\u00c3\u00a9, choisir la ou les proposition(s) exacte(s).",
-"correct_answers":["f"],
-"answer": [
-    {"answer_statment":"A partir du XVIII\u00c3\u00a8me si\u00c3\u00a8cle, l\u00e2\u20ac\u2122esp\u00c3\u00a9rance de vie cro\u00c3\u00aet de mani\u00c3\u00a8re lin\u00c3\u00a9aire, sans interruption jusqu\u00e2\u20ac\u2122\u00c3\u00a0 nos\njours.",
-    "id":"a"},
-    {"answer_statment":"Le manque d\u00e2\u20ac\u2122acc\u00c3\u00a8s \u00c3\u00a0 la m\u00c3\u00a9decine a toujours \u00c3\u00a9t\u00c3\u00a9 un des facteurs d\u00c3\u00a9terminants des in\u00c3\u00a9galit\u00c3\u00a9s sociales\nde sant\u00c3\u00a9.",
-    "id":"b"},
-    {"answer_statment":"Gr\u00c3\u00a2ce aux aides mises en place par l\u00e2\u20ac\u2122\u00c3\u2030tat, les in\u00c3\u00a9galit\u00c3\u00a9s sociales ne sont d\u00c3\u00a9sormais plus\nsignificatives en mati\u00c3\u00a8re de sant\u00c3\u00a9",
-    "id":"c"},
-    {"answer_statment":"Le rapport Black (1980) d\u00c3\u00a9montre l\u00e2\u20ac\u2122existence d\u00e2\u20ac\u2122un seuil d\u00c3\u00a9terminant dans le cadre des in\u00c3\u00a9galit\u00c3\u00a9s\nsociales de sant\u00c3\u00a9.",
-    "id":"d"},
-    {"answer_statment":"Le gradient social de sant\u00c3\u00a9 montre que les in\u00c3\u00a9galit\u00c3\u00a9s sont pr\u00c3\u00a9sentes entre chaque niveau de\nhi\u00c3\u00a9rarchie sociale.",
-    "id":"e"},
-    {"answer_statment":"Toutes les propositions pr\u00c3\u00a9c\u00c3\u00a9dentes sont fausses",
-    "id":"f"}
-]
-}  
+    {"statement": "Concernant les in\u00c3\u00a9galit\u00c3\u00a9s de sant\u00c3\u00a9, choisir la ou les proposition(s) exacte(s).",
+    "correct_answers":["f"],
+    "answer": [
+        {"answer_statment":"A partir du XVIII\u00c3\u00a8me si\u00c3\u00a8cle, l\u00e2\u20ac\u2122esp\u00c3\u00a9rance de vie cro\u00c3\u00aet de mani\u00c3\u00a8re lin\u00c3\u00a9aire, sans interruption jusqu\u00e2\u20ac\u2122\u00c3\u00a0 nos\njours.",
+        "id":"a"},
+        {"answer_statment":"Le manque d\u00e2\u20ac\u2122acc\u00c3\u00a8s \u00c3\u00a0 la m\u00c3\u00a9decine a toujours \u00c3\u00a9t\u00c3\u00a9 un des facteurs d\u00c3\u00a9terminants des in\u00c3\u00a9galit\u00c3\u00a9s sociales\nde sant\u00c3\u00a9.",
+        "id":"b"},
+        {"answer_statment":"Gr\u00c3\u00a2ce aux aides mises en place par l\u00e2\u20ac\u2122\u00c3\u2030tat, les in\u00c3\u00a9galit\u00c3\u00a9s sociales ne sont d\u00c3\u00a9sormais plus\nsignificatives en mati\u00c3\u00a8re de sant\u00c3\u00a9",
+        "id":"c"},
+        {"answer_statment":"Le rapport Black (1980) d\u00c3\u00a9montre l\u00e2\u20ac\u2122existence d\u00e2\u20ac\u2122un seuil d\u00c3\u00a9terminant dans le cadre des in\u00c3\u00a9galit\u00c3\u00a9s\nsociales de sant\u00c3\u00a9.",
+        "id":"d"},
+        {"answer_statment":"Le gradient social de sant\u00c3\u00a9 montre que les in\u00c3\u00a9galit\u00c3\u00a9s sont pr\u00c3\u00a9sentes entre chaque niveau de\nhi\u00c3\u00a9rarchie sociale.",
+        "id":"e"},
+        {"answer_statment":"Toutes les propositions pr\u00c3\u00a9c\u00c3\u00a9dentes sont fausses",
+        "id":"f"}
+        ]
+    },  
+    {"statement": "yolo 1",
+    "correct_answers":["f"],
+    "answer": [
+        {"answer_statment":"A partir du XVIII\u00c3\u00a8me si\u00c3\u00a8cle, l\u00e2\u20ac\u2122esp\u00c3\u00a9rance de vie cro\u00c3\u00aet de mani\u00c3\u00a8re lin\u00c3\u00a9aire, sans interruption jusqu\u00e2\u20ac\u2122\u00c3\u00a0 nos\njours.",
+        "id":"a"},
+        {"answer_statment":"Le manque d\u00e2\u20ac\u2122acc\u00c3\u00a8s \u00c3\u00a0 la m\u00c3\u00a9decine a toujours \u00c3\u00a9t\u00c3\u00a9 un des facteurs d\u00c3\u00a9terminants des in\u00c3\u00a9galit\u00c3\u00a9s sociales\nde sant\u00c3\u00a9.",
+        "id":"b"},
+        {"answer_statment":"Gr\u00c3\u00a2ce aux aides mises en place par l\u00e2\u20ac\u2122\u00c3\u2030tat, les in\u00c3\u00a9galit\u00c3\u00a9s sociales ne sont d\u00c3\u00a9sormais plus\nsignificatives en mati\u00c3\u00a8re de sant\u00c3\u00a9",
+        "id":"c"},
+        {"answer_statment":"Le rapport Black (1980) d\u00c3\u00a9montre l\u00e2\u20ac\u2122existence d\u00e2\u20ac\u2122un seuil d\u00c3\u00a9terminant dans le cadre des in\u00c3\u00a9galit\u00c3\u00a9s\nsociales de sant\u00c3\u00a9.",
+        "id":"d"},
+        {"answer_statment":"Le gradient social de sant\u00c3\u00a9 montre que les in\u00c3\u00a9galit\u00c3\u00a9s sont pr\u00c3\u00a9sentes entre chaque niveau de\nhi\u00c3\u00a9rarchie sociale.",
+        "id":"e"},
+        {"answer_statment":"Toutes les propositions pr\u00c3\u00a9c\u00c3\u00a9dentes sont fausses",
+        "id":"f"}
+        ]
+    },
+    {"statement": "yolo 2",
+    "correct_answers":["f"],
+    "answer": [
+        {"answer_statment":"A partir du XVIII\u00c3\u00a8me si\u00c3\u00a8cle, l\u00e2\u20ac\u2122esp\u00c3\u00a9rance de vie cro\u00c3\u00aet de mani\u00c3\u00a8re lin\u00c3\u00a9aire, sans interruption jusqu\u00e2\u20ac\u2122\u00c3\u00a0 nos\njours.",
+        "id":"a"},
+        {"answer_statment":"Le manque d\u00e2\u20ac\u2122acc\u00c3\u00a8s \u00c3\u00a0 la m\u00c3\u00a9decine a toujours \u00c3\u00a9t\u00c3\u00a9 un des facteurs d\u00c3\u00a9terminants des in\u00c3\u00a9galit\u00c3\u00a9s sociales\nde sant\u00c3\u00a9.",
+        "id":"b"},
+        {"answer_statment":"Gr\u00c3\u00a2ce aux aides mises en place par l\u00e2\u20ac\u2122\u00c3\u2030tat, les in\u00c3\u00a9galit\u00c3\u00a9s sociales ne sont d\u00c3\u00a9sormais plus\nsignificatives en mati\u00c3\u00a8re de sant\u00c3\u00a9",
+        "id":"c"},
+        {"answer_statment":"Le rapport Black (1980) d\u00c3\u00a9montre l\u00e2\u20ac\u2122existence d\u00e2\u20ac\u2122un seuil d\u00c3\u00a9terminant dans le cadre des in\u00c3\u00a9galit\u00c3\u00a9s\nsociales de sant\u00c3\u00a9.",
+        "id":"d"},
+        {"answer_statment":"Le gradient social de sant\u00c3\u00a9 montre que les in\u00c3\u00a9galit\u00c3\u00a9s sont pr\u00c3\u00a9sentes entre chaque niveau de\nhi\u00c3\u00a9rarchie sociale.",
+        "id":"e"},
+        {"answer_statment":"Toutes les propositions pr\u00c3\u00a9c\u00c3\u00a9dentes sont fausses",
+        "id":"f"}
+        ]
+    },
 ]

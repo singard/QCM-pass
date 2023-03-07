@@ -1,4 +1,4 @@
-package com.ynov.qcm_pass.view.fragment
+package com.ynov.qcm_pass.view.toolBar
 
 import android.content.Intent
 import android.os.Bundle
@@ -6,7 +6,7 @@ import android.view.*
 import android.widget.Toast
 import androidx.fragment.app.Fragment
 import com.ynov.qcm_pass.R
-import com.ynov.qcm_pass.view.activity.ParametersActivity
+import com.ynov.qcm_pass.view.parameter.ParametersActivity
 
 
 class ToolbarFragment: Fragment() {

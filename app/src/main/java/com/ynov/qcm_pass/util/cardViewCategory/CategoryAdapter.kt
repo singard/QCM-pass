@@ -1,4 +1,4 @@
-package com.ynov.qcm_pass.card
+package com.ynov.qcm_pass.util.cardViewCategory
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

@@ -5,5 +5,5 @@ import java.io.Serializable
 data class Qcm(
     val statement: String,
     val correct_answers: List<String>,
-    val answer: List<Answer>
+    val answers  : List<Answer>
 ): Serializable

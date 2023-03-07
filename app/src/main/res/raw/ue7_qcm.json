@@ -1,53 +1,421 @@
-[
-    {"statement": "Concernant les in\u00c3\u00a9galit\u00c3\u00a9s de sant\u00c3\u00a9, choisir la ou les proposition(s) exacte(s).",
-    "correct_answers":["f"],
-    "answer": [
-        {"answer_statment":"A partir du XVIII\u00c3\u00a8me si\u00c3\u00a8cle, l\u00e2\u20ac\u2122esp\u00c3\u00a9rance de vie cro\u00c3\u00aet de mani\u00c3\u00a8re lin\u00c3\u00a9aire, sans interruption jusqu\u00e2\u20ac\u2122\u00c3\u00a0 nos\njours.",
-        "id":"a"},
-        {"answer_statment":"Le manque d\u00e2\u20ac\u2122acc\u00c3\u00a8s \u00c3\u00a0 la m\u00c3\u00a9decine a toujours \u00c3\u00a9t\u00c3\u00a9 un des facteurs d\u00c3\u00a9terminants des in\u00c3\u00a9galit\u00c3\u00a9s sociales\nde sant\u00c3\u00a9.",
-        "id":"b"},
-        {"answer_statment":"Gr\u00c3\u00a2ce aux aides mises en place par l\u00e2\u20ac\u2122\u00c3\u2030tat, les in\u00c3\u00a9galit\u00c3\u00a9s sociales ne sont d\u00c3\u00a9sormais plus\nsignificatives en mati\u00c3\u00a8re de sant\u00c3\u00a9",
-        "id":"c"},
-        {"answer_statment":"Le rapport Black (1980) d\u00c3\u00a9montre l\u00e2\u20ac\u2122existence d\u00e2\u20ac\u2122un seuil d\u00c3\u00a9terminant dans le cadre des in\u00c3\u00a9galit\u00c3\u00a9s\nsociales de sant\u00c3\u00a9.",
-        "id":"d"},
-        {"answer_statment":"Le gradient social de sant\u00c3\u00a9 montre que les in\u00c3\u00a9galit\u00c3\u00a9s sont pr\u00c3\u00a9sentes entre chaque niveau de\nhi\u00c3\u00a9rarchie sociale.",
-        "id":"e"},
-        {"answer_statment":"Toutes les propositions pr\u00c3\u00a9c\u00c3\u00a9dentes sont fausses",
-        "id":"f"}
-        ]
-    },  
-    {"statement": "yolo 1",
-    "correct_answers":["f"],
-    "answer": [
-        {"answer_statment":"A partir du XVIII\u00c3\u00a8me si\u00c3\u00a8cle, l\u00e2\u20ac\u2122esp\u00c3\u00a9rance de vie cro\u00c3\u00aet de mani\u00c3\u00a8re lin\u00c3\u00a9aire, sans interruption jusqu\u00e2\u20ac\u2122\u00c3\u00a0 nos\njours.",
-        "id":"a"},
-        {"answer_statment":"Le manque d\u00e2\u20ac\u2122acc\u00c3\u00a8s \u00c3\u00a0 la m\u00c3\u00a9decine a toujours \u00c3\u00a9t\u00c3\u00a9 un des facteurs d\u00c3\u00a9terminants des in\u00c3\u00a9galit\u00c3\u00a9s sociales\nde sant\u00c3\u00a9.",
-        "id":"b"},
-        {"answer_statment":"Gr\u00c3\u00a2ce aux aides mises en place par l\u00e2\u20ac\u2122\u00c3\u2030tat, les in\u00c3\u00a9galit\u00c3\u00a9s sociales ne sont d\u00c3\u00a9sormais plus\nsignificatives en mati\u00c3\u00a8re de sant\u00c3\u00a9",
-        "id":"c"},
-        {"answer_statment":"Le rapport Black (1980) d\u00c3\u00a9montre l\u00e2\u20ac\u2122existence d\u00e2\u20ac\u2122un seuil d\u00c3\u00a9terminant dans le cadre des in\u00c3\u00a9galit\u00c3\u00a9s\nsociales de sant\u00c3\u00a9.",
-        "id":"d"},
-        {"answer_statment":"Le gradient social de sant\u00c3\u00a9 montre que les in\u00c3\u00a9galit\u00c3\u00a9s sont pr\u00c3\u00a9sentes entre chaque niveau de\nhi\u00c3\u00a9rarchie sociale.",
-        "id":"e"},
-        {"answer_statment":"Toutes les propositions pr\u00c3\u00a9c\u00c3\u00a9dentes sont fausses",
-        "id":"f"}
-        ]
-    },
-    {"statement": "yolo 2",
-    "correct_answers":["f"],
-    "answer": [
-        {"answer_statment":"A partir du XVIII\u00c3\u00a8me si\u00c3\u00a8cle, l\u00e2\u20ac\u2122esp\u00c3\u00a9rance de vie cro\u00c3\u00aet de mani\u00c3\u00a8re lin\u00c3\u00a9aire, sans interruption jusqu\u00e2\u20ac\u2122\u00c3\u00a0 nos\njours.",
-        "id":"a"},
-        {"answer_statment":"Le manque d\u00e2\u20ac\u2122acc\u00c3\u00a8s \u00c3\u00a0 la m\u00c3\u00a9decine a toujours \u00c3\u00a9t\u00c3\u00a9 un des facteurs d\u00c3\u00a9terminants des in\u00c3\u00a9galit\u00c3\u00a9s sociales\nde sant\u00c3\u00a9.",
-        "id":"b"},
-        {"answer_statment":"Gr\u00c3\u00a2ce aux aides mises en place par l\u00e2\u20ac\u2122\u00c3\u2030tat, les in\u00c3\u00a9galit\u00c3\u00a9s sociales ne sont d\u00c3\u00a9sormais plus\nsignificatives en mati\u00c3\u00a8re de sant\u00c3\u00a9",
-        "id":"c"},
-        {"answer_statment":"Le rapport Black (1980) d\u00c3\u00a9montre l\u00e2\u20ac\u2122existence d\u00e2\u20ac\u2122un seuil d\u00c3\u00a9terminant dans le cadre des in\u00c3\u00a9galit\u00c3\u00a9s\nsociales de sant\u00c3\u00a9.",
-        "id":"d"},
-        {"answer_statment":"Le gradient social de sant\u00c3\u00a9 montre que les in\u00c3\u00a9galit\u00c3\u00a9s sont pr\u00c3\u00a9sentes entre chaque niveau de\nhi\u00c3\u00a9rarchie sociale.",
-        "id":"e"},
-        {"answer_statment":"Toutes les propositions pr\u00c3\u00a9c\u00c3\u00a9dentes sont fausses",
-        "id":"f"}
+﻿[
+    {
+        "statement": "Concernant les inégalités de santé, choisir la ou les proposition(s) exacte(s).,A partir du XVIIIème siècle,",
+        "correct_answers": [
+            "F",
+            "A"
+        ],
+        "answers": [
+            {
+                "answer_statement": "A partir du XVIIIème siècle, l’espérance de vie croît de manière linéaire, sans interruption jusqu’à nos jours.",
+                "id": "a"
+            },
+            {
+                "answer_statement": "Le manque d’accès à la médecine a toujours été un des facteurs déterminants des inégalités sociales de santé.",
+                "id": "b"
+            },
+            {
+                "answer_statement": "Grâce aux aides mises en place par l’État, les inégalités sociales ne sont désormais plus significatives en matière de santé.",
+                "id": "c"
+            },
+            {
+                "answer_statement": "Le rapport Black (1980) démontre l’existence d’un seuil déterminant dans le cadre des inégalités sociales de santé",
+                "id": "d"
+            },
+            {
+                "answer_statement": "Le gradient social de santé montre que les inégalités sont présentes entre chaque niveau de hiérarchie sociale.",
+                "id": "e"
+            },
+            {
+                "answer_statement": "Toutes les propositions précédentes sont fausses.",
+                "id": "f"
+            }
         ]
     },
+    {
+        "statement": "Concernant les inégalités de santé, choisir la ou les proposition(s) exacte(s).",
+        "correct_answers": [
+            "F",
+            "D"
+        ],
+        "answers": [
+            {
+                "answer_statement": "Les inégalités sociales de santé ne portent pas seulement sur la quantité de vie, elles concernent aussi la qualité de vie : c’est la double peine.",
+                "id": "a"
+            },
+            {
+                "answer_statement": "Si les inégalités géographiques persistent au niveau mondial, elles ne sont plus significatives au niveau national.",
+                "id": "b"
+            },
+            {
+                "answer_statement": ". A l’instar des autres domaines de la vie sociale, les inégalités de santé sont globalement favorables au femmes.",
+                "id": "c"
+            },
+            {
+                "answer_statement": "L’influence du système de santé sur l’évolution des inégalités de santé est majeure.",
+                "id": "d"
+            },
+            {
+                "answer_statement": "L’effet de sélection montre que le niveau de santé est à la fois cause et conséquence des inégalités sociales.",
+                "id": "e"
+            },
+            {
+                "answer_statement": "Toutes les propositions précédentes sont fausses",
+                "id": "f"
+            }
+        ]
+    },
+    {
+        "statement": "Concernant les inégalités de santé, choisir la ou les proposition(s) exacte(s).",
+        "correct_answers": [
+            "F",
+            "K"
+        ],
+        "answers": [
+            {
+                "answer_statement": "Les accidents de travail sont plus fréquents pour les professions manuelles (BTP) mais ils sont moins graves.",
+                "id": "a"
+            },
+            {
+                "answer_statement": "L’homogamie entraîne une diminution des inégalités sociales de santé.",
+                "id": "b"
+            },
+            {
+                "answer_statement": "La consommation de tabac a diminué de manière égale entre les différentes classes sociales grâce aux messages de prévention.",
+                "id": "c"
+            },
+            {
+                "answer_statement": "Pour Baudelot, la santé est le reflet global des inégalités dans la société.",
+                "id": "d"
+            },
+            {
+                "answer_statement": "Toute inégalité est injuste",
+                "id": "e"
+            },
+            {
+                "answer_statement": "Toutes les propositions précédentes sont fausse",
+                "id": "f"
+            }
+        ]
+    },
+    {
+        "statement": "Concernant les inégalités de santé, choisir la ou les proposition(s) exacte(s).",
+        "correct_answers": [
+            "F"
+        ],
+        "answers": [
+            {
+                "answer_statement": "Il y a 3 conditions essentielles au développement humain selon Amartya Sen.",
+                "id": "a"
+            },
+            {
+                "answer_statement": "Grâce aux dispositifs facilitant l’accès aux soins des classes sociales défavorisées (CSS), il n’y a plus de renoncement aux soins.",
+                "id": "b"
+            },
+            {
+                "answer_statement": "L’irrespect du principe de non discrimination étant sanctionnable, aucun médecin ne refuse un patient pour des raisons économique",
+                "id": "c"
+            },
+            {
+                "answer_statement": "On peut constater des inégalités de santé entre différents quartiers d’une même ville.",
+                "id": "d"
+            },
+            {
+                "answer_statement": "Les médecins passent plus de temps avec les patients appartenant aux catégories sociales défavorisées car ils sont en plus mauvaise santé.",
+                "id": "e"
+            },
+            {
+                "answer_statement": ". Toutes les propositions précédentes sont fausses.",
+                "id": "f"
+            }
+        ]
+    },
+    {
+        "statement": "A propos de la question publique de la santé, choisir la ou les proposition(s) exacte(s).",
+        "correct_answers": [
+            "F"
+        ],
+        "answers": [
+            {
+                "answer_statement": "Ayant entre autre pour objectif la prise en charge de la santé d’une population et l’étude de déterminants biologiques, la santé publique en tant que discipline académique est réservée à la médecine.",
+                "id": "a"
+            },
+            {
+                "answer_statement": "La notion de “promotion de la santé” dans un contexte de société du risque conduit à la “santé dans toutes les politiques”.",
+                "id": "b"
+            },
+            {
+                "answer_statement": "L’exercice de la santé publique comme discipline scientifique est exempt de jugements normatifs",
+                "id": "c"
+            },
+            {
+                "answer_statement": "Le rapport de l’être humain avec l’environnement urbain est une préoccupation apparue avec les problématiques environnementales actuelles.",
+                "id": "d"
+            },
+            {
+                "answer_statement": "La peste du XIVe siècle a été une catastrophe sanitaire car les seules mesures publiques prises consistaient en des processions religieuses.",
+                "id": "e"
+            },
+            {
+                "answer_statement": "Toutes les propositions précédentes sont fausses",
+                "id": "f"
+            }
+        ]
+    },
+    {
+        "statement": "A propos des mesures de santé publique, choisir la ou les proposition(s) exacte(s).",
+        "correct_answers": [
+            "F"
+        ],
+        "answers": [
+            {
+                "answer_statement": "De nos jours encore, on observe une stigmatisation des classes défavorisées, considérées comme pouvant être nuisible à la société du fait de faible application des messages de santé publique",
+                "id": "a"
+            },
+            {
+                "answer_statement": "La santé publique est retrouvée à différentes époques comme un moyen de contrôle de la population.",
+                "id": "b"
+            },
+            {
+                "answer_statement": "L’usage de la “discipline” selon Foucault est absent dans notre système de santé actuel.",
+                "id": "c"
+            },
+            {
+                "answer_statement": "La “gouvernementalité” peut s’exercer à travers la culpabilisation des citoyens afin qu’ils adoptent les bons comportements.",
+                "id": "d"
+            },
+            {
+                "answer_statement": "Le nudge consiste à encadrer les comportements déviants d’une population par des mesures coercitives.",
+                "id": "e"
+            },
+            {
+                "answer_statement": "Toutes les propositions précédentes sont fausses",
+                "id": "f"
+            }
+        ]
+    },
+    {
+        "statement": "Concernant l’histoire des politiques de santé publique au XVIIIème et au XIXème siècle, choisir la ou les proposition(s) exacte(s).",
+        "correct_answers": [
+            "F"
+        ],
+        "answers": [
+            {
+                "answer_statement": "Au XVIIIème siècle, le néo-hippocratisme traduit la préoccupation partagée par la plupart des médecins de l’époque selon laquelle le milieu extérieur joue un rôle primordial au regard de la santé.",
+                "id": "a"
+            },
+            {
+                "answer_statement": "Grâce aux travaux de la Société Royale de médecine, on s’aperçoit que l’espérance de vie est plus élevée en ville qu’en campagne.",
+                "id": "b"
+            },
+            {
+                "answer_statement": "L’hygiénisme du XIXe siècle s’oppose au néo-hippocratisme, courant du XVIIIème siècle.",
+                "id": "c"
+            },
+            {
+                "answer_statement": "Un des objectifs de l’hygiénisme est de modifier les comportements des “classes laborieuses”, ce qui peut être vécu comme une forme de domination pour la population concernée.",
+                "id": "d"
+            },
+            {
+                "answer_statement": "Au XIXème siècle, la question épidémique a toujours une place centrale dans les questions sanitaires",
+                "id": "e"
+            },
+            {
+                "answer_statement": "Toutes les propositions précédentes sont fausses",
+                "id": "f"
+            }
+        ]
+    },
+    {
+        "statement": "Concernant l’histoire des politiques de santé publiques, choisir la ou les proposition(s) exacte(s).",
+        "correct_answers": [
+            "F"
+        ],
+        "answers": [
+            {
+                "answer_statement": "L’hygiène publique permet de mettre en lumière les inégalités sociales de santé au XIXe siècle.",
+                "id": "a"
+            },
+            {
+                "answer_statement": "L’hygiène publique est le théâtre d’une connexion entre savoir et pouvoir.",
+                "id": "b"
+            },
+            {
+                "answer_statement": "La révolution pastorienne permet le développement d’une médecine fondée sur l’environnement extérieur tout au long du XXème siècle.",
+                "id": "c"
+            },
+            {
+                "answer_statement": "La France est à la pointe de la santé publique au début du XXème siècle.",
+                "id": "d"
+            },
+            {
+                "answer_statement": "La conception de l’État providence du XXème siècle montre que la santé est surtout une question individuelle.",
+                "id": "e"
+            },
+            {
+                "answer_statement": "Toutes les propositions précédentes sont fausses",
+                "id": "f"
+            }
+        ]
+    },
+    {
+        "statement": "Mme Folcoche amène son fils Ferdinand, âgé de 3 ans, au service de consultations pédiatriques du CHU de Montpellier. Elle explique que le jeune garçon a chuté ce matin lorsqu’il jouait avec sa sœur. Lors de l’examen clinique, le Dr. Bazin observe des lésions aux topographies particulières notamment des ecchymoses de couleur jaunâtre. Choisir la ou les proposition(s) exacte(s). Le praticien, alerté par ces signes et le comportement inapproprié de la mère,\nsoupçonne cette dernière d’être violente avec son enfant. Il émet donc comme\npremière hypothèse de diagnostic celui du syndrome de Tardieu-Silverman. Choisir la ou les proposition(s) exactes. ",
+        "correct_answers": [
+            "F"
+        ],
+        "answers": [
+            {
+                "answer_statement": "Les ecchymoses trouvées chez l’enfant permettent d’infirmer l’accident décrit par Mme Folcoche.",
+                "id": "a"
+            },
+            {
+                "answer_statement": "Le Dr Bazin a la possibilité d’effectuer un test pour la maladie de Lobstein, qui si positif, pourrait infirmer le diagnostic de syndrome de Tardieu-Silverman.",
+                "id": "b"
+            },
+            {
+                "answer_statement": "Dès lors que le diagnostic est confirmé, le Dr. Bazin a le devoir de faire un signalement à la justice pénale auprès d’officiers de police judiciaire ou du procureur de la République.",
+                "id": "c"
+            },
+            {
+                "answer_statement": "Dans ce cas précis, la recherche de circonstances aggravantes se limite à la qualité de la victime.",
+                "id": "d"
+            },
+            {
+                "answer_statement": "Dans l’hypothèse d’un jugement, le Dr Bazin ne pourra en aucun cas témoigner, car étant fonctionnaire de l’État, sa participation rentrerait en contradiction avec le principe de séparation des pouvoirs.",
+                "id": "e"
+            },
+            {
+                "answer_statement": "Toutes les propositions précédentes sont fausses",
+                "id": "f"
+            }
+        ]
+    },
+    {
+        "statement": "Concernant la maltraitance de l’enfant. Choisir la ou les proposition(s) exacte(s).",
+        "correct_answers": [
+            "F"
+        ],
+        "answers": [
+            {
+                "answer_statement": "L’ITT (Incapacité Totale de Travail) est une notion pénale prenant en compte les atteintes purement physiques qu’a subies une victime de violence.",
+                "id": "a"
+            },
+            {
+                "answer_statement": "En l’absence de circonstance aggravante, un ITT d’une semaine qualifie un acte de violence volontaire de délit.",
+                "id": "b"
+            },
+            {
+                "answer_statement": "Le constat d’un cas d’enfant en risque doit donner lieu à une information préoccupante aux autorités administratives au niveau des services de l’enfance des conseils régionaux.",
+                "id": "c"
+            },
+            {
+                "answer_statement": "Les maltraitances de l’enfant correspondent à toutes les atteintes portées envers les personnes âgées de moins de 15 ans.",
+                "id": "d"
+            },
+            {
+                "answer_statement": "Les études épidémiologiques montrent qu’en majorité les violences infantiles restent inconnues des parents étant donné qu’elles se déroulent hors du cadre familial.",
+                "id": "e"
+            },
+            {
+                "answer_statement": "Toutes les propositions précédentes sont fausses",
+                "id": "f"
+            }
+        ]
+    },
+    {
+        "statement": "Concernant la violence et la maltraitance, choisir la ou les proposition(s) exacte(s).",
+        "correct_answers": [
+            "F"
+        ],
+        "answers": [
+            {
+                "answer_statement": "Le syndrome de Münchhausen par procuration est aussi appelé syndrome de Meadow.",
+                "id": "a"
+            },
+            {
+                "answer_statement": "En France, il est possible de retirer les enfants du milieu familial grâce à une OPP (Ordonnance provisoire de placement), dans ce cas toutes les décisions futures relatives à l’enfant seront prises par la justice.",
+                "id": "b"
+            },
+            {
+                "answer_statement": "En cas de doutes et dans l’attente de preuves scientifiques, lors d’une suspicion d’agression sexuelle sur mineur, il est possible de faire un signalement administratif seulement.",
+                "id": "c"
+            },
+            {
+                "answer_statement": "Légalement, on considère qu’il y a maltraitance sur personne âgée si la victime est âgée de 65 ans ou plus.",
+                "id": "d"
+            },
+            {
+                "answer_statement": "Les autopsies scientifiques sont faites par voie médicale, c’est à dire qu’elles sont à la demande du médecin et réalisées par le médecin légiste.",
+                "id": "e"
+            },
+            {
+                "answer_statement": "Toutes les propositions précédentes sont fausses",
+                "id": "f"
+            }
+        ]
+    },
+    {
+        "statement": "Concernant le secret professionnel, choisir la ou les proposition(s) exacte(s).",
+        "correct_answers": [
+            "F"
+        ],
+        "answers": [
+            {
+                "answer_statement": "L’article 226-13 du code pénal traite de l’obligation de secret professionnel alors que l’article 226-14 concerne les dérogations “obligatoires”.",
+                "id": "a"
+            },
+            {
+                "answer_statement": "Le secret professionnel est repris dans le code civil (article 9), dans le code de déontologie des médecins ainsi que dans le code de la santé publique.",
+                "id": "b"
+            },
+            {
+                "answer_statement": "Conformément à l’article 226-14 du code pénal, le secret professionnel n’est pas applicable dans le cas d’atteintes ou de mutilations sexuelles sur un mineur de 17 ans.",
+                "id": "c"
+            },
+            {
+                "answer_statement": "Les MDO (Maladies à déclaration obligatoire), les certificats de décès et de naissances sont des exemples de dérogations “obligatoires” directes.",
+                "id": "d"
+            },
+            {
+                "answer_statement": "La violation du secret professionnel est passible de 3 ans d’emprisonnement et de 15 000 euros d’amende.",
+                "id": "e"
+            },
+            {
+                "answer_statement": "Toutes les propositions précédentes sont fausses",
+                "id": "f"
+            }
+        ]
+    },
+    {
+        "statement": "A propos des différentes responsabilités, choisi la ou les proposition(s) exacte(s)",
+        "correct_answers": [
+            "F"
+        ],
+        "answers": [
+            {
+                "answer_statement": "Tout professionnel de santé doit souscrire à une assurance pour sa responsabilité pénale.",
+                "id": "a"
+            },
+            {
+                "answer_statement": "La responsabilité disciplinaire d'un médecin militaire peut être recherchée devant les chambres de disciplines de l’Ordre des médecins.",
+                "id": "b"
+            },
+            {
+                "answer_statement": "Si un professionnel de santé libéral s’abstient de souscrire une assurance qui vise à garantir sa responsabilité civile, sa responsabilité disciplinaire peut être recherchée.",
+                "id": "c"
+            },
+            {
+                "answer_statement": "Plusieurs responsabilités peuvent être recherchées pour une même faute.",
+                "id": "d"
+            },
+            {
+                "answer_statement": "Les contraventions, les délits et les crimes sont des infractions.",
+                "id": "e"
+            },
+            {
+                "answer_statement": "Toutes les propositions précédentes sont fausses",
+                "id": "f"
+            }
+        ]
+    }
 ]

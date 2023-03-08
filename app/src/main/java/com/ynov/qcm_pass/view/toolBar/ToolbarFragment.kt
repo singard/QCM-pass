@@ -34,7 +34,6 @@ class ToolbarFragment: Fragment() {
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         return when (item.itemId) {
             R.id.action_settings -> {
-                Toast.makeText(context, "Paramètres sélectionnés", Toast.LENGTH_SHORT).show()
                 val intent = Intent( requireContext(), ParametersActivity::class.java)
                 startActivity(intent)
                 true

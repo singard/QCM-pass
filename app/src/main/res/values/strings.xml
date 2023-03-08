@@ -11,4 +11,5 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="main_title">Welcome to the application that will help you succeed in your PASS year</string>
     <string name="main_button">Go</string>
+    <string name="my_stats">Mes statistiques</string>
 </resources>

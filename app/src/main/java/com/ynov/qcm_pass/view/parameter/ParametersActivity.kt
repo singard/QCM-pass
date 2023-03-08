@@ -14,7 +14,7 @@ class ParametersActivity : AppCompatActivity() {
         setContentView(R.layout.activity_parameters)
 
         val toolBar = ToolbarFragment()
-        supportFragmentManager.beginTransaction().replace(R.id.container, toolBar).commit()
+        //supportFragmentManager.beginTransaction().replace(R.id.container, toolBar).commit()
         supportActionBar?.setDisplayHomeAsUpEnabled(true) // ajoute la flèche de retour
     }
 

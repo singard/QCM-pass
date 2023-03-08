@@ -9,9 +9,6 @@ import com.ynov.qcm_pass.view.home.HomeActivity
 
 class MainActivity : AppCompatActivity() {
 
-
-
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)

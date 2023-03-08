@@ -9,8 +9,12 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.ynov.qcm_pass.R
+import com.ynov.qcm_pass.database.DatabaseHandler
 import com.ynov.qcm_pass.model.Qcm
+import com.ynov.qcm_pass.model.Stat
 import com.ynov.qcm_pass.view.home.HomeActivity
+import java.text.SimpleDateFormat
+import java.util.*
 
 class QuestionActivity : AppCompatActivity() {
 
@@ -83,16 +87,20 @@ class QuestionActivity : AppCompatActivity() {
             currentQuestionIndex++
 
             if (currentQuestionIndex < listQcm.size) {
-                Toast.makeText(this, "${currentQuestionIndex}", Toast.LENGTH_SHORT).show()
-
                 recreate()
             } else {
-                // Afficher le résultat
-                Toast.makeText(this, "fini", Toast.LENGTH_SHORT).show()
 
                 Log.i(className,"total questions ${currentQuestionIndex+1}")
                 Log.i(className,"good answer ${goodAnswer}")
                 //TODO envoyer les données au stats
+
+                val dateFormat = SimpleDateFormat("dd/MM/yyyy HH:mm")
+                val date = Date()
+
+                val context = this
+                var stat = Stat(dateFormat.format(date), ((100*goodAnswer)/currentQuestionIndex).toFloat())
+                var db = DatabaseHandler(context)
+                db.insertData(stat)
 
                 goodAnswer=0
                 currentQuestionIndex=0

@@ -15,15 +15,15 @@ Installez et vérifiez que vous possédez la bonne version de gradle.
  
  ## Accueil et choix de la catégorie
  
- ![QCM-pass/home.gif](https://github.com/singard/QCM-pass/blob/master/home.gif)
+  <img src = "https://github.com/singard/QCM-pass/blob/master/home.gif" width=30% height=30%>
  
  ## Quizz
  
- ![QCM-pass/quiz.gif](https://github.com/singard/QCM-pass/blob/master/quiz.gif)
+  <img src = "https://github.com/singard/QCM-pass/blob/master/quiz.gif" width=30% height=30%>
 
  ## Consultation des scores
  
- ![QCM-pass/stats.gif](https://github.com/singard/QCM-pass/blob/master/stats.gif)
+  <img src = "https://github.com/singard/QCM-pass/blob/master/stats.gif" width=30% height=30%>
 
 ### Contributeurs
 Ce projet a été réalisé par BATTU Bryan, GONZALEZ Mathieu, JACQUOT Maxime, ROLLAND Victor.

@@ -19,7 +19,7 @@ Installez et vérifiez que vous possédez la bonne version de gradle.
  
  ## Quizz
  
-  <img src = "https://github.com/singard/QCM-pass/blob/master/quiz.gif" width=25% height=25%>
+  <img src = "https://github.com/singard/QCM-pass/blob/master/quizz.gif" width=25% height=25%>
 
  ## Consultation des scores
  

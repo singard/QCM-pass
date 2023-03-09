@@ -13,21 +13,17 @@ Installez et vérifiez que vous possédez la bonne version de gradle.
  
  ### Présentation
  
- ## Démarrage de l'application
+ ## Accueil et choix de la catégorie
  
-  # GIF DE LA PAGE EN QUESTION
- 
- ## Choix de la catégorie
- 
-  # GIF DE LA PAGE EN QUESTION
+ ![QCM-pass/home.gif](https://github.com/singard/QCM-pass/blob/master/home.gif)
  
  ## Quizz
  
-  # GIF DE LA PAGE EN QUESTION
+ ![QCM-pass/quiz.gif](https://github.com/singard/QCM-pass/blob/master/quiz.gif)
 
  ## Consultation des scores
  
-  # GIF DE LA PAGE EN QUESTION
+ ![QCM-pass/stats.gif](https://github.com/singard/QCM-pass/blob/master/stats.gif)
 
 ### Contributeurs
 Ce projet a été réalisé par BATTU Bryan, GONZALEZ Mathieu, JACQUOT Maxime, ROLLAND Victor.

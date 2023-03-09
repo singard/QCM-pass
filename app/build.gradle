@@ -61,7 +61,6 @@ dependencies {
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:${androidx_lifecycle_lifecycle_viewmodel_ktx}"
     implementation "androidx.navigation:navigation-fragment-ktx:${androidx_navigation_navigation_fragment_ktx}"
     implementation "androidx.navigation:navigation-ui-ktx:${androidx_navigation_navigation_ui_ktx}"
-    implementation 'androidx.core:core-ktx:+'
     testImplementation "junit:junit:${junit}"
     androidTestImplementation "androidx.test.ext:junit:${androidx_test_ext}"
     androidTestImplementation "androidx.test.espresso:espresso-core:${androidx_test_espresso}"

@@ -24,6 +24,18 @@ Installez et vérifiez que vous possédez la bonne version de gradle.
  ## Consultation des scores
  
   <img src = "https://github.com/singard/QCM-pass/blob/master/stats.gif" width=25% height=25%>
+  
+### Fonctionnalitées
+
+- Création d'onglets avec des fragments.
+
+- Utilisation de cardView avec un recyclerView.
+
+- Personnalisation toolbar, bouton retour, menu, logo et du thème général.
+
+- Lecture d’un json pour stocker les questions
+
+- Statistiques avec SQLite
 
 ### Contributeurs
 Ce projet a été réalisé par BATTU Bryan, GONZALEZ Mathieu, JACQUOT Maxime, ROLLAND Victor.
@@ -31,7 +43,4 @@ Ce projet a été réalisé par BATTU Bryan, GONZALEZ Mathieu, JACQUOT Maxime, R
 ### Avenir du projet
 Nous comptons faire évoluer ce projet pour le mettre à disposition des étudiants en médecine.
 
-### Remarque
-Ce projet est un TP académique et n'a pas été conçu pour une utilisation commerciale.
-
-<img src="https://github.com/Victor2a/2QI-devmobile/blob/kotlin/logo_ynov_campus_rvb_blanc.png"  width="250" height="125"/>
+<img src="https://github.com/singard/QCM-pass/blob/master/logo_ynov_campus_rvb_blanc.gif"  width="250" height="125"/>

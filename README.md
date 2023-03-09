@@ -15,7 +15,7 @@ Installez et vérifiez que vous possédez la bonne version de gradle.
  
  ## Accueil et choix de la catégorie
  
-  <img src = "https://github.com/singard/QCM-pass/blob/master/home.gif" width=30% height=30%>
+  <img src = "https://github.com/singard/QCM-pass/blob/master/home.gif" width=20% height=20%>
  
  ## Quizz
  
